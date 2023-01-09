@@ -209,7 +209,7 @@ function __camPlayerDead()
 		var droidCount = 0;
 		enumDroid(CAM_HUMAN_PLAYER).forEach(function(obj) {
 			droidCount += 1;
-			if (obj.droidType === DROID_TRANSPORTER)
+			if (obj.droidType === DROID_SUPERTRANSPORTER)
 			{
 				droidCount += enumCargo(obj).length;
 			}

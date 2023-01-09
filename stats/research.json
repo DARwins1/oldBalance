@@ -4709,7 +4709,7 @@
         "iconID": "IMAGE_RES_WEAPONTECH",
         "id": "R-Wpn-Bomb-Accuracy01",
         "imdName": "trlvtlhe.PIE",
-        "msgName": "RES_W_BAC1",
+        "msgName": "RES_W_BDMG1",
         "name": "Thermal Imaging Bombsight",
         "requiredResearch": [
             "R-Wpn-Bomb01",
@@ -4747,7 +4747,7 @@
         "id": "R-Wpn-Bomb-Accuracy02",
 		"keyTopic": 1,
         "imdName": "trlvtlhe.PIE",
-        "msgName": "RES_W_BAC2",
+        "msgName": "RES_W_BDMG2",
         "name": "Laser Guided Bombsight",
         "requiredResearch": [
             "R-Wpn-Bomb-Accuracy01"
@@ -7364,7 +7364,7 @@
         "iconID": "IMAGE_RES_WEAPONTECH",
         "id": "R-Wpn-Bomb-Accuracy03",
         "imdName": "trlvtlhe.PIE",
-        "msgName": "RES_W_BAC3",
+        "msgName": "RES_W_BDMG3",
         "name": "Target Acquisition Bombsight",
         "requiredResearch": [
             "R-Wpn-Mortar-Acc03",
